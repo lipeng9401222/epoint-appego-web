@@ -1,0 +1,55 @@
+@mix-rate-1: 20%;
+@mix-rate-2: 40%;
+@mix-rate-3: 60%;
+@mix-rate-4: 80%;
+@mix-rate-5: 90%;
+@mix-rate-6: 95%;
+
+@mix-rate-7: 20%;
+@mix-rate-8: 40%;
+@mix-rate-9: 60%;
+@mix-rate-10: 80%;
+
+
+@theme-color-1: mix(#fff, @theme-color, @mix-rate-1);
+@theme-color-2: mix(#fff, @theme-color, @mix-rate-2);
+@theme-color-3: mix(#fff, @theme-color, @mix-rate-3);
+@theme-color-4: mix(#fff, @theme-color, @mix-rate-4);
+@theme-color-5: mix(#fff, @theme-color, @mix-rate-5);
+@theme-color-6: mix(#fff, @theme-color, @mix-rate-6);
+
+@theme-color-7: mix(#000, @theme-color, @mix-rate-7);
+@theme-color-8: mix(#000, @theme-color, @mix-rate-8);
+@theme-color-9: mix(#000, @theme-color, @mix-rate-9);
+@theme-color-10: mix(#000, @theme-color, @mix-rate-10);
+
+@black-color-1: mix(#fff, @black-color, @mix-rate-1);
+@black-color-2: mix(#fff, @black-color, @mix-rate-2);
+@black-color-3: mix(#fff, @black-color, @mix-rate-3);
+@black-color-4: mix(#fff, @black-color, @mix-rate-4);
+@black-color-5: mix(#fff, @black-color, @mix-rate-5);
+@black-color-6: mix(#fff, @black-color, @mix-rate-6);
+
+@black-color-7: mix(#000, @black-color, @mix-rate-7);
+@black-color-8: mix(#000, @black-color, @mix-rate-8);
+@black-color-9: mix(#000, @black-color, @mix-rate-9);
+@black-color-10: mix(#000, @black-color, @mix-rate-10);
+
+
+// 基于以上颜色 重命名一下 有含义的别名 方便使用
+
+@split-color: @black-color-5; // 栏目分隔颜色
+
+@border-color: @black-color-4; // 边框颜色
+
+@text-color: @black-color-1; // 默认文本色
+
+@assist-text-color: @black-color-3; // 辅助信息文字颜色
+
+@disabled-bg: @black-color-6; // 禁用背景色
+@disabled-color: @black-color-4; // 禁用颜色
+
+@input-focus-border-color: @theme-color; // 文本框聚焦时边框颜色
+
+@item-selected-bg: @theme-color-5; // 选中条目别背景色
+@item-hover-bg : @black-color-6; // hover 条目背景色

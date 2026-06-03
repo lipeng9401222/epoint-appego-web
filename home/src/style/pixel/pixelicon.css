@@ -1,0 +1,50 @@
+[class^="pixelicon-"],
+[class*="pixelicon-"] {
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.pixelicon-1 {
+  background-image: url(pixelicon-1.png);
+}
+
+.pixelicon-2 {
+  background-image: url(pixelicon-2.png);
+}
+
+.pixelicon-3 {
+  background-image: url(pixelicon-3.png);
+}
+
+.pixelicon-4 {
+  background-image: url(pixelicon-4.png);
+}
+
+.pixelicon-5 {
+  background-image: url(pixelicon-5.png);
+}
+
+.pixelicon-6 {
+  background-image: url(pixelicon-6.png);
+}
+
+.pixelicon-7 {
+  background-image: url(pixelicon-7.png);
+}
+
+.pixelicon-8 {
+  background-image: url(pixelicon-8.png);
+}
+
+.pixelicon-9 {
+  background-image: url(pixelicon-9.png);
+}
+
+.pixelicon-10 {
+  background-image: url(pixelicon-10.png);
+}
+

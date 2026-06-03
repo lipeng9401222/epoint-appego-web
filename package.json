@@ -1,0 +1,34 @@
+{
+  "name": "componentization-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "cz": "czg",
+    "dev:egoapp": "pnpm --filter @epframe/web-ego dev",
+    "dev:appcenter": "pnpm --filter @epframe/epoint-appcenter-vue build:watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "*/**",
+    "!**/META-INF/**",
+    "!**/target/**",
+    "!**/epoint-demo-vue-m/**"
+  ],
+  "devDependencies": {
+    "@tsconfig/node22": "^22.0.0",
+    "@types/node": "^22.13.4",
+    "@vue/eslint-config-prettier": "^10.2.0",
+    "@vue/eslint-config-typescript": "^14.4.0",
+    "@vue/tsconfig": "^0.7.0",
+    "czg": "1.7.1",
+    "eslint": "^9.20.1",
+    "eslint-plugin-vue": "^9.32.0",
+    "prettier": "^3.5.1",
+    "typescript": "~5.7.3"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "@epframe/web-home",
+  "version": "10.0.1-SNAPSHOT",
+  "type": "module",
+  "packageManager": "pnpm@10.10.0",
+  "scripts": {
+    "dev": "vite --host",
+    "dev:debug": "vite --host --debug",
+    "clean": "rimraf dist",
+    "build": "npm run clean && vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --max-warnings 0 --cache",
+    "lint:fix": "npm run lint --fix",
+    "lint:commit": "commitlint --from=HEAD~1",
+    "purge": "node build/run-build.mjs purge",
+    "build:all": "node build/run-build.mjs full",
+    "update:base": "pnpm update \"@epframe/*\" \"@epoint-fe/*\""
+  },
+  "dependencies": {
+    "@epframe/editor": "~10.0.3",
+    "@epframe/epoint-demo-vue": "snapshot-2.0.1",
+    "@epframe/epoint-epaas": "snapshot-10.0.1",
+    "@epframe/epoint-mini": "snapshot-10.0.1",
+    "@epframe/epoint-sform-vue": "snapshot-10.0.1",
+    "@epframe/epoint-workflow-vue": "10.0.1-beta2.2",
+    "@epframe/eui-core": "beta",
+    "@epframe/meta-dependencies": "^0.0.25",
+    "@epframe/meta-runtime-components": "^0.0.25",
+    "@epoint-fe/devtools-plugin": "^1.0.0",
+    "@epoint-fe/eui-components": "~10.0.11",
+    "@epoint-fe/eui-hooks": "~10.0.3",
+    "@epoint-fe/eui-icons": "~10.0.0",
+    "@epoint-fe/eui-theme-eva": "~10.0.16",
+    "@epoint-fe/utils": "beta",
+    "pinia": "2.2.6",
+    "pinia-plugin-persistedstate": "3.2.0",
+    "vue": "3.5.11",
+    "vue-router": "4.4.5"
+  },
+  "devDependencies": {
+    "@epframe/vite-plugin-ext-web": "^1.4.0",
+    "@epframe/vite-plugin-i18n-auto-prefix": "^1.2.0",
+    "@epframe/vite-plugin-route-info-build": "^1.0.1",
+    "@epframe/vite-plugin-workspace-hmr": "^1.0.0",
+    "@tsconfig/node22": "^22.0.0",
+    "@types/node": "^22.13.4",
+    "@vitejs/plugin-vue": "5.2.1",
+    "@vue/eslint-config-prettier": "^10.2.0",
+    "@vue/eslint-config-typescript": "^14.4.0",
+    "@vue/tsconfig": "^0.7.0",
+    "czg": "^1.7.1",
+    "eslint": "^9.20.1",
+    "eslint-plugin-vue": "^9.32.0",
+    "fs-extra": "^11.3.0",
+    "glob": "11.0.0",
+    "javascript-obfuscator": "4.1.1",
+    "less": "4.2.0",
+    "prettier": "^3.5.1",
+    "rimraf": "6.0.1",
+    "sirv": "^3.0.0",
+    "typescript": "~5.7.3",
+    "vite": "6.1.0",
+    "vite-plugin-vue-devtools": "^7.7.2",
+    "vue-tsc": "2.2.2"
+  },
+  "engines": {
+    "node": ">=20.11.1",
+    "npm": ">=10"
+  },
+  "publishConfig": {
+    "registry": "http://192.168.0.99:8081/nexus/repository/frame-npm/"
+  }
+}
