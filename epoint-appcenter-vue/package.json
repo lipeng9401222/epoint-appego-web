@@ -1,0 +1,75 @@
+{
+  "name": "@epframe/epoint-appcenter-vue",
+  "version": "10.0.1-SNAPSHOT",
+  "type": "module",
+  "files": [
+    "dist",
+    "package.json"
+  ],
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js"
+    },
+    "./style.css": "./dist/style.css"
+  },
+  "scripts": {
+    "cz": "czg",
+    "dev": "vite --host",
+    "build": "pnpm run clean && vite build",
+    "build:watch": "pnpm run clean && vite build --watch",
+    "clean": "rimraf dist",
+    "lint": "eslint . --max-warnings 0 --cache",
+    "lint:fix": "pnpm run lint --fix",
+    "lint:commit": "commitlint --from=HEAD~1",
+    "chs": "changeset",
+    "chs-v": "changeset version",
+    "release": "pnpm run build && pnpm publish --no-git-checks"
+  },
+  "peerDependencies": {
+    "@epframe/eui-core": "10.0.6-beta.21",
+    "@epoint-fe/eui-components": "^10.0.2",
+    "@epoint-fe/eui-hooks": "^10.0.0",
+    "@epoint-fe/eui-icons": "^10.0.0",
+    "@epoint-fe/utils": "10.0.3-beta.1",
+    "@epoint-fe/vuedraggable": "^4.1.0",
+    "pinia": "2.2.6",
+    "pinia-plugin-persistedstate": "3.2.0",
+    "vue": "3.5.11",
+    "vue-router": "4.4.5",
+    "@monaco-editor/loader": "^1.5.0",
+    "monaco-editor": "^0.55.1",
+    "wd-hanzi2pinyin": "^0.0.11"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.26.2",
+    "@commitlint/cli": "17.7.1",
+    "@commitlint/config-conventional": "17.7.0",
+    "@epframe/vite-plugin-route-info-build": "0.0.2",
+    "@types/node": "^22.13.4",
+    "@vitejs/plugin-vue": "5.2.1",
+    "@vue/eslint-config-prettier": "^10.2.0",
+    "@vue/eslint-config-typescript": "^14.4.0",
+    "@vue/tsconfig": "^0.7.0",
+    "czg": "1.7.1",
+    "eslint": "^9.20.1",
+    "eslint-plugin-vue": "^10.0.0",
+    "fs-extra": "11.2.0",
+    "glob": "11.0.0",
+    "less": "4.2.0",
+    "prettier": "^3.5.1",
+    "rimraf": "6.0.1",
+    "typescript": "~5.7.3",
+    "vite": "6.1.0",
+    "vue-tsc": "2.2.2"
+  },
+  "engines": {
+    "node": ">=20.11.1",
+    "npm": ">=10"
+  },
+  "publishConfig": {
+    "registry": "http://192.168.0.99:8081/nexus/repository/frame-npm/"
+  },
+  "dependencies": {}
+}

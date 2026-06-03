@@ -1,0 +1,8 @@
+src/
+node_modules/
+.git/
+.gitignore
+.eslintrc.js
+.prettierrc
+vite.config.js
+*.log
