@@ -1,18 +1,8 @@
 <template>
   <div ref="appCenter" class="app-center">
     <div class="min">
-      <AccNav v-show="!state.isCollapsed" :expand-all="!state.isCollapsed" :data="state.menuFolderListData" :current-guid="state.currentGuid" @click-fold="onClickFold" @click-nav="onClickNav">
-        <!-- 标题部分插槽 -->
-        <template #nav-title="slotProps">
-          <slot name="nav-title" v-bind="slotProps"></slot>
-        </template>
-        <!-- 树形结构插槽 -->
-        <template #nav-tree="slotProps">
-          <slot name="nav-tree" v-bind="slotProps"></slot>
-        </template>
-      </AccNav>
       <template v-if="!enablePackage || (enablePackage && state.showApp)">
-        <div class="right-container" :style="{ width: rightWidth }">
+        <div class="right-container">
           <Header
             :menu-name="state.menuName"
             :tabtype="state.tabType"
@@ -52,11 +42,13 @@
             </template>
           </Header>
           <template v-if="state">
-            <e-tabs v-if="enableDeveloperstag" class="developerstag-list" v-model="state.developerstag" @tab-click="handleTagClick">
-              <e-tab-pane v-for="(item, index) in state.developerstagList" :key="index" :label="item.text" :name="item.id"></e-tab-pane>
-            </e-tabs>
-            <!-- 占位 -->
-            <div v-else class="developerstag-list"></div>
+            <FilterPanel 
+              :app-type="state.appType"
+              :source="props.source"
+              :current-guid="state.currentGuid"
+              :developerstag="state.developerstag"
+              @change="onFilterChange"
+            />
             <div class="app-main" v-loading="state.loading" loading-text="Loading..." loading-background="transparent">
               <!-- 缺省 -->
               <Empty v-if="state.showEmpty" @update-list="onUpdateList" :title="props.title" :current-guid="state.currentGuid" :apptype="state.appType">
@@ -250,7 +242,7 @@ import { getRightUrl } from '@epoint-fe/utils';
 import { Plus } from '@epoint-fe/eui-icons';
 import { APP_CENTER_CONFIG, DIALOG_CONFIG } from '../constants';
 import { useAppCenter, useDragAndDrop } from '../composables';
-import { Header, AccNav, Folder, App, Empty, CreateDialog, InfoDialog, Package, ExtendappDialog, SelectExtendappDialog } from '../components';
+import { Header, Folder, App, Empty, CreateDialog, InfoDialog, Package, ExtendappDialog, SelectExtendappDialog, FilterPanel } from '../components';
 import type {
   AppCenterProps,
   AppCenterEmits,
@@ -348,12 +340,18 @@ const {
   updateList,
   updateBreadcrumbs,
   openPackage,
-  handleGetDevelopersTag,
 } = useAppCenter(props, emit);
 
 // 获取当前选中的文件夹ID
 const getCurrentGuid = () => {
   return state.currentGuid;
+};
+
+// 过滤器变化时触发
+const onFilterChange = (filter) => {
+  state.developerstag = filter.developerstag;
+  state.currentGuid = filter.classcode;
+  updateList(state.currentGuid);
 };
 
 // 暴露方法给父组件
@@ -494,6 +492,8 @@ const handleTagClick = (tab: any) => {
     padding-bottom: 24px;
     display: flex;
     flex-direction: column;
+    flex: 1;
+    width: 100%;
   }
 
   .app-header {

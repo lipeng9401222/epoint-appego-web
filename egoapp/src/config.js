@@ -1,9 +1,9 @@
 // 项目基础路径  按照规范为: /<应用名>/子路径
-const BASEPATH = process.env.VITE_RUN_ALL_PATH?.trim() || 'EpointFrame/egoapp';
+const BASEPATH = process.env.VITE_RUN_ALL_PATH?.trim() || 'epoint-web/egoapp';
 // 项目虚拟路径 即 /<应用名>
-const ROOTPATH = process.env.VITE_RUN_ROOT_PATH?.trim() || '/EpointFrame';
+const ROOTPATH = process.env.VITE_RUN_ROOT_PATH?.trim() || '/epoint-web';
 // agent用户端基础路径
-const AGENT_BASEPATH = process.env.VITE_AGENT_BASE_PATH?.trim() || '/EpointFrame/agent';
+const AGENT_BASEPATH = process.env.VITE_AGENT_BASE_PATH?.trim() || '/epoint-web/agent';
 // 知识库基础路径
 const KNOWLEDGE_ROOTPATH = process.env.VITE_RUN_KNOWLEDGE_ROOT_PATH?.trim() || '/knowledgeHub';
 

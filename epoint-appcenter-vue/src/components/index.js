@@ -11,6 +11,8 @@ import Avatar from './avatar.vue';
 import Recycled from './recycled.vue';
 import Package from './package.vue';
 import InfoDialog from './info-dialog/info-dialog.vue';
+import FilterPanel from './filter-panel.vue';
 
-export { Header, AccNav, App, Folder, Empty, CreateDialog, SelectExtendappDialog, ExtendappDialog, InfoDialog, ExpandTransition, Avatar, Recycled, Package };
+export { Header, AccNav, App, Folder, Empty, CreateDialog, SelectExtendappDialog, ExtendappDialog, InfoDialog, ExpandTransition, Avatar, Recycled, Package, FilterPanel };
+
 

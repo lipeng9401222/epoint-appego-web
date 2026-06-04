@@ -24,6 +24,18 @@ export function getClassList(params) {
   });
 }
 
+// 懒加载应用分类
+export function getClassListLazy(params) {
+  const url = 'api/v1/lowcodeappclass/getclasslistlazy';
+  return action2restAxios({
+    url: url,
+    data: params,
+    headers: {
+      'Content-Type': 'application/json',
+    },
+  });
+}
+
 // 编辑文件夹
 export function editFolder(params) {
   const url = 'api/v1/lowcodeappclass/update';
@@ -158,9 +170,9 @@ export function deleteAppClass(params) {
   });
 }
 
-// 获取供应商
-export function getDevelopersTag(params) {
-  const url = 'api/v1/lowcodeappcenter/getDevelopersTag';
+// 获取开发商树
+export function getDevelopersTree(params) {
+  const url = 'api/v1/lowcodeappcenter/getDevelopersTree';
   return action2restAxios({
     url: url,
     data: params,

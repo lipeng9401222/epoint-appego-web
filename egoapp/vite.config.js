@@ -14,6 +14,7 @@ import { extWebConfig } from './.ext-web.config.mjs';
 
 // 后端服务的运行地址
 const BACKEND_SERVER_URL = Config.isMock ? 'https://fe.epoint.com.cn/mock/752/eui-vue/' : 'http://localhost:8081';
+const BACKEND_CONTEXT_PATH = '/epoint-web';
 
 // const BACKEND_SERVER_URL = "https://fe.epoint.com.cn/mock/752/eui-vue/";
 const proxyRewrite = /\/mock\//.test(BACKEND_SERVER_URL)
@@ -23,7 +24,7 @@ const proxyRewrite = /\/mock\//.test(BACKEND_SERVER_URL)
     }
   : (path) => {
       console.log('proxy to backend:', path);
-      return path;
+      return path.replace(new RegExp(`^${Config.rootPath}`), BACKEND_CONTEXT_PATH);
     };
 
 // 是否启用打包体积可视化分析

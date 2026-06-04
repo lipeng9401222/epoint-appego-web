@@ -45,43 +45,43 @@ importers:
     dependencies:
       '@epframe/epoint-agent-components':
         specifier: ^2.3.4
-        version: 2.3.5(4bf06f3ea8c7c7298666e23bf549b198)
+        version: 2.3.5(0ef2eb634e5e5859e20665da822d8f3b)
       '@epframe/epoint-agent-hooks':
         specifier: ^2.3.1
-        version: 2.3.3(@epframe/eui-core@10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))
+        version: 2.3.3(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))
       '@epframe/epoint-agent-modelsquare':
         specifier: ^2.3.2
-        version: 2.3.2(4bf06f3ea8c7c7298666e23bf549b198)
+        version: 2.3.2(0ef2eb634e5e5859e20665da822d8f3b)
       '@epframe/epoint-agent-utils':
         specifier: ^2.3.1
-        version: 2.3.1(@epframe/eui-core@10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))
+        version: 2.3.1(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))
       '@epframe/epoint-agent-workbench':
         specifier: ^2.3.14
-        version: 2.3.22(7a6c279efa4916942d5cb13ea131826e)
+        version: 2.3.22(8a3ffff076366fa82daaef597f56e856)
       '@epframe/epoint-appcenter-vue':
         specifier: workspace:*
         version: link:../epoint-appcenter-vue
       '@epframe/epoint-epaas':
         specifier: snapshot-10.0.1
-        version: 10.0.1-SNAPSHOT.4(9e3f217b69e1d4574e6acc7ea4b95778)
+        version: 10.0.1-SNAPSHOT.9(html2canvas@1.4.1)(jspdf@2.5.2)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-cropper@1.1.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
       '@epframe/epoint-knowledge-vue':
         specifier: ^1.0.11
-        version: 1.0.19(f15d4cd32e6cfe517432ea89b7fab9b2)
+        version: 1.0.19(@epframe/epoint-appcenter-vue@epoint-appcenter-vue)(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(@epoint-fe/vuedraggable@4.1.0(vue@3.5.11(typescript@5.7.3)))(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))
       '@epframe/epoint-lowcode-vue':
         specifier: beta-10.0.1
-        version: 10.0.1-beta.1(16a6f9ac75f278f5a7b98fdbc21f0137)
+        version: 10.0.1-beta.1(74ef875d365455ce03d3e897f6c36396)
       '@epframe/epoint-sform-vue':
         specifier: beta-10.0.1
-        version: 10.0.1-beta.1(b93edce47200fb78a78d8b177fd43086)
+        version: 10.0.1-beta.6(dc70f90824b532c92637e0d011cce05f)
       '@epframe/eui-core':
-        specifier: 10.0.6-beta.21
-        version: 10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+        specifier: 10.0.6-beta.41
+        version: 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
       '@epoint-fe/ai-chat':
         specifier: ^2.0.8
-        version: 2.0.9(@epframe/theme-manager@1.2.21(5b30ee3c6426b1025682d547c0d5b8f0))(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-theme-eva@10.0.16(33f3c6b4bad8a01c5c26dc19366c451b))(@epoint-fe/jquery@3.7.1)(@epoint-fe/utils@10.0.3-beta.1)(he@1.2.0)(markdown-it-attrs@4.3.1(markdown-it@14.1.0))(markdown-it-footnote@4.0.0)(markdown-it-highlightjs@4.3.0)(markdown-it@14.1.0)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(portal-vue@3.0.0(vue@3.5.11(typescript@5.7.3)))(swiper@11.2.10)(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))
+        version: 2.0.9(e1b1f5973e2c04daccfdec4889fe245b)
       '@epoint-fe/eui-components':
         specifier: ~10.0.2
-        version: 10.0.7(vue@3.5.11(typescript@5.7.3))
+        version: 10.0.12(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-hooks':
         specifier: ~10.0.0
         version: 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
@@ -90,7 +90,7 @@ importers:
         version: 10.0.0(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-theme-ego':
         specifier: ^10.0.5
-        version: 10.0.7(8927873f3d5594f08b38278e744ca86f)
+        version: 10.0.7(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/instruction-set':
         specifier: ^1.0.6
         version: 1.0.8
@@ -217,10 +217,10 @@ importers:
     dependencies:
       '@epframe/eui-core':
         specifier: 10.0.6-beta.21
-        version: 10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+        version: 10.0.6-beta.21(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
       '@epoint-fe/eui-components':
         specifier: ^10.0.2
-        version: 10.0.7(vue@3.5.11(typescript@5.7.3))
+        version: 10.0.12(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-hooks':
         specifier: ^10.0.0
         version: 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
@@ -320,31 +320,31 @@ importers:
     dependencies:
       '@epframe/editor':
         specifier: ~10.0.3
-        version: 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(typescript@5.7.3)
+        version: 10.0.3(@epoint-fe/utils@10.0.3-beta.6)(typescript@5.7.3)
       '@epframe/epoint-demo-vue':
         specifier: snapshot-2.0.1
-        version: 2.0.1-SNAPSHOT.3(8dd9776f0a60a543833ff502759a3ee7)
+        version: 2.0.1-SNAPSHOT.9(html2canvas@1.4.1)(jspdf@2.5.2)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-cropper@1.1.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
       '@epframe/epoint-epaas':
         specifier: snapshot-10.0.1
-        version: 10.0.1-SNAPSHOT.5(5d9c0097007e13d3759839889a6edc30)
+        version: 10.0.1-SNAPSHOT.9(html2canvas@1.4.1)(jspdf@2.5.2)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-cropper@1.1.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
       '@epframe/epoint-mini':
         specifier: snapshot-10.0.1
-        version: 10.0.1-SNAPSHOT.2(5928d2b61396053b6d6cbaa13bc036d3)
+        version: 10.0.1-SNAPSHOT.4(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
       '@epframe/epoint-sform-vue':
         specifier: snapshot-10.0.1
-        version: 10.0.1-SNAPSHOT.88(dbc277809697e4f48b22ac717b2c286b)
+        version: 10.0.1-SNAPSHOT.107(html2canvas@1.4.1)(jspdf@2.5.2)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(typescript@5.7.3)(vue-cropper@1.1.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
       '@epframe/epoint-workflow-vue':
         specifier: 10.0.1-beta2.2
-        version: 10.0.1-beta2.2(5928d2b61396053b6d6cbaa13bc036d3)
+        version: 10.0.1-beta2.2(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.6)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.6)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))
       '@epframe/eui-core':
         specifier: beta
-        version: 10.0.6-beta.21(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+        version: 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
       '@epframe/meta-dependencies':
         specifier: ^0.0.25
-        version: 0.0.25(@epframe/epoint-workflow-vue@10.0.1-beta2.2(5928d2b61396053b6d6cbaa13bc036d3))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+        version: 0.0.25(957232a99c7dfb3cdf5128a881369dea)
       '@epframe/meta-runtime-components':
         specifier: ^0.0.25
-        version: 0.0.25(@epframe/epoint-workflow-vue@10.0.1-beta2.2(5928d2b61396053b6d6cbaa13bc036d3))(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+        version: 0.0.25(957232a99c7dfb3cdf5128a881369dea)
       '@epoint-fe/devtools-plugin':
         specifier: ^1.0.0
         version: 1.0.0(vue@3.5.11(typescript@5.7.3))
@@ -353,16 +353,16 @@ importers:
         version: 10.0.12(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-hooks':
         specifier: ~10.0.3
-        version: 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
+        version: 10.0.3(@epoint-fe/utils@10.0.3-beta.6)(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons':
         specifier: ~10.0.0
         version: 10.0.0(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-theme-eva':
         specifier: ~10.0.16
-        version: 10.0.16(5b40d7e5baebff059bbde897b1eb5459)
+        version: 10.0.16(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.6)(@types/sortablejs@1.15.9)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/utils':
         specifier: beta
-        version: 10.0.3-beta.1
+        version: 10.0.3-beta.6
       pinia:
         specifier: 2.2.6
         version: 2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))
@@ -826,51 +826,20 @@ packages:
       vue-router: 4.4.5
       vuedraggable: 4.1.0
 
-  '@epframe/epoint-demo-vue@2.0.1-SNAPSHOT.3':
-    resolution: {integrity: sha512-6RfePqAQoF4WPoVj/qnmIqOGlAzY+ecK7Ar0KBBsDDp59ylvrfmYlaCfvNtvqF/I6fPXK+5HiLMC5f6JS9kCfw==}
+  '@epframe/epoint-demo-vue@2.0.1-SNAPSHOT.9':
+    resolution: {integrity: sha512-5FluDBByhO22HAh+THeX4BIFEqoNq9IB3WTNVKLy9MXXSMLFic4BIkB6vgbWQAQwNKUCtSX9oIjLh6IDCJ+6Ng==}
     engines: {node: '>=20.11.1', npm: '>=10'}
     peerDependencies:
-      '@epframe/epoint-workflow-vue': '>=10.0.1-0 <11.0.0'
-      '@epframe/eui-core': 10.0.6-snapshot.1
-      '@epoint-fe/eui-components': 10.0.5
-      '@epoint-fe/eui-hooks': ~10.0.0
-      '@epoint-fe/eui-icons': ~10.0.0
-      '@epoint-fe/utils': ~10.0.0
       pinia: 2.2.6
       pinia-plugin-persistedstate: 3.2.0
       vue: 3.5.11
       vue-draggable-plus: ^0.6.0
       vue-router: 4.4.5
 
-  '@epframe/epoint-epaas@10.0.1-SNAPSHOT.4':
-    resolution: {integrity: sha512-WMuXmxWydEogwlWaDYAuAAXOX7KebKWA9s9RTzoKgL9ruGOFV8TNrRlRlzEco2qohtEyOQBAL0dcro/lu/GI9Q==}
+  '@epframe/epoint-epaas@10.0.1-SNAPSHOT.9':
+    resolution: {integrity: sha512-2dG0TabzFSEuUYXprhmVQ/jQFDN5VXYCoLTzekWiZxhfkEeWkzwhi8s4p/G8qvzOPCbb5B9fPbpejDXMg9tg9A==}
     engines: {node: '>=20.11.1', npm: '>=10'}
     peerDependencies:
-      '@epframe/eui-core': '>=10.0.0-0 <11.0.0'
-      '@epoint-fe/eui-components': ~10.0.2
-      '@epoint-fe/eui-hooks': ~10.0.0
-      '@epoint-fe/eui-icons': ~10.0.0
-      '@epoint-fe/utils': ~10.0.0
-      html2canvas: ^1.4.1
-      jspdf: ^2.5.1
-      pinia: 2.2.6
-      pinia-plugin-persistedstate: 3.2.0
-      qrcode: 1.5.4
-      vue: 3.5.11
-      vue-cropper: ^1.1.4
-      vue-draggable-plus: ^0.6.0
-      vue-router: 4.4.5
-      vuedraggable-es: ^4.1.1
-
-  '@epframe/epoint-epaas@10.0.1-SNAPSHOT.5':
-    resolution: {integrity: sha512-ZYsqE4HcAWDJfqsNgVPlNppJWKgc3VT3mUbxe0mx4s5AbtNlGe/F8bzjGZamfCtqxDJtOmpuIlgY8GKvqJd1ig==}
-    engines: {node: '>=20.11.1', npm: '>=10'}
-    peerDependencies:
-      '@epframe/eui-core': '>=10.0.0-0 <11.0.0'
-      '@epoint-fe/eui-components': ~10.0.2
-      '@epoint-fe/eui-hooks': ~10.0.0
-      '@epoint-fe/eui-icons': ~10.0.0
-      '@epoint-fe/utils': ~10.0.0
       html2canvas: ^1.4.1
       jspdf: ^2.5.1
       pinia: 2.2.6
@@ -917,22 +886,26 @@ packages:
       vue: 3.5.11
       vue-router: 4.4.5
 
-  '@epframe/epoint-mini@10.0.1-SNAPSHOT.2':
-    resolution: {integrity: sha512-f3zNjCy0iPHHGPh+GMzDGnY+FxdnuYnRHnVfjZJjw4/lhwlke8vuLTYBMyv0LSOqR3XTygE/x6PMVLtpj+2unA==}
+  '@epframe/epoint-mini@10.0.1-SNAPSHOT.4':
+    resolution: {integrity: sha512-VwOrMxb3dnhsHVf+T52v0wFPU4QXKBXtB9cj+3LE9yncSbT+yD8w0fK1ml/e7EFcRb8RIOzqc6VZ/Rq9ZjSEkA==}
     engines: {node: '>=20.11.1', npm: '>=10'}
     peerDependencies:
-      '@epframe/eui-core': '>=10.0.0-0 <11.0.0'
-      '@epoint-fe/eui-components': ~10.0.1
-      '@epoint-fe/eui-hooks': ~10.0.0
-      '@epoint-fe/eui-icons': ~10.0.0
-      '@epoint-fe/utils': ~10.0.0
       pinia: 2.2.6
       pinia-plugin-persistedstate: 3.2.0
       vue: 3.5.11
       vue-router: 4.4.5
 
-  '@epframe/epoint-sform-vue@10.0.1-SNAPSHOT.88':
-    resolution: {integrity: sha512-2VjnuCA4UT0iqQBzWOfMqwcowzQsMkGmBSMvZ7ntx1KdnHpO/C66UO/PIgAKpQZ0yB/jHl0KwnlI16w32pjPvg==}
+  '@epframe/epoint-sform-vue@10.0.1-SNAPSHOT.107':
+    resolution: {integrity: sha512-EbQiQsooyJ2jToPEblimOVrb3S1dpWykK5Q8PzuGKBHrByPCSi8svWNlHP2fb2dlOBcyTrKg67X0gxIZE5DVdw==}
+    engines: {node: '>=20.11.1', npm: '>=10'}
+    peerDependencies:
+      pinia: '=2.2.6'
+      pinia-plugin-persistedstate: '=3.2.0'
+      vue: '=3.5.11'
+      vue-router: '=4.4.5'
+
+  '@epframe/epoint-sform-vue@10.0.1-beta.6':
+    resolution: {integrity: sha512-01VF7DWu4vUaScCcWx09rgbBTHNYEhiBKAyyo1EbdKEgY4ycEjXzeF/PI1G0+CM4XuODaflwO3c1VTfZCWLOuw==}
     engines: {node: '>=20.11.1', npm: '>=10'}
     peerDependencies:
       '@epframe/editor': ~10.0.0
@@ -948,21 +921,14 @@ packages:
       vue: '=3.5.11'
       vue-router: '=4.4.5'
 
-  '@epframe/epoint-sform-vue@10.0.1-beta.1':
-    resolution: {integrity: sha512-YwQ60nZ54EeDM1OuQA7RgdUhX2uNze1mn9swRBZsOLRZ/tS9P9PABYhzHD1mVnd9X9tQrZ+XwPkoVrASZxeZ/g==}
+  '@epframe/epoint-workflow-vue@10.0.1-SNAPSHOT.29':
+    resolution: {integrity: sha512-nLXZs8wq1jnoqw23FJR1O4Aup6QNW05PVX51Cr16hSA7xjp+ovD8zmJUjguQBB7xiJNaV4NkjDPnNUgIpLWBSw==}
     engines: {node: '>=20.11.1', npm: '>=10'}
     peerDependencies:
-      '@epframe/editor': ~10.0.0
-      '@epframe/epoint-workflow-vue': ~10.0.1-SNAPSHOT
-      '@epframe/eui-core': ~10.0.0
-      '@epoint-fe/eui-components': ~10.0.1
-      '@epoint-fe/eui-hooks': ~10.0.0
-      '@epoint-fe/eui-icons': ~10.0.0
-      '@epoint-fe/utils': ~10.0.0
-      pinia: '=2.2.6'
-      pinia-plugin-persistedstate: '=3.2.0'
-      vue: '=3.5.11'
-      vue-router: '=4.4.5'
+      pinia: 2.2.6
+      pinia-plugin-persistedstate: 3.2.0
+      vue: 3.5.11
+      vue-router: 4.4.5
 
   '@epframe/epoint-workflow-vue@10.0.1-beta2.2':
     resolution: {integrity: sha512-M01qAfnRJ8Hx6OG2QpcsSapcTa6Fro7Cek+zoK7qHRLiwZyFsM51j5rWwT7XJSnFgPN4TrYuk7z3iwdg7v2jXw==}
@@ -993,13 +959,9 @@ packages:
       vue-router: 4.4.5
       vuedraggable-es: 4.1.1
 
-  '@epframe/eui-core@10.0.6-beta.27':
-    resolution: {integrity: sha512-qQVElJNU55BT1YJFymxMx6GeqPkRZiPm0CruiqwB3LJQBKgf5ZXPManG3QqbkOLTAkdxPh+qNDaq57PAEpepDg==}
+  '@epframe/eui-core@10.0.6-beta.41':
+    resolution: {integrity: sha512-3GASJe1X4F1XWzPEfUURJcgDfi1OYDFDJEO3otw59PWY0O8lIKfGBI8eSb7DnwdIsXIv6PojC91nG19L6xgSzw==}
     peerDependencies:
-      '@epoint-fe/eui-components': ~10.0.0
-      '@epoint-fe/eui-hooks': ~10.0.0
-      '@epoint-fe/eui-icons': ~10.0.0
-      '@epoint-fe/utils': ~10.0.0
       pinia: 2.2.6
       pinia-plugin-persistedstate: 3.2.0
       qrcode: 1.5.4
@@ -1007,6 +969,22 @@ packages:
       vue-draggable-plus: ^0.6.0
       vue-router: 4.4.5
       vuedraggable-es: 4.1.1
+
+  '@epframe/eui-core@10.0.6-snapshot.11':
+    resolution: {integrity: sha512-8ZWy5TKmMErVHTF9K3I3g4wgWMHVKBBV9Cs7YcqsrnCh0DgBfuFxudRVjAxKBDeC0Kc4Kj3VwI+Q8eOvtf9fXg==}
+    peerDependencies:
+      pinia: 2.2.6
+      pinia-plugin-persistedstate: 3.2.0
+      qrcode: 1.5.4
+      vue: 3.5.11
+      vue-draggable-plus: ^0.6.0
+      vue-router: 4.4.5
+      vuedraggable-es: 4.1.1
+
+  '@epframe/eui-page-core@10.0.0-snapshot.3':
+    resolution: {integrity: sha512-GUsjMRRmCLzHkE53ClwhRc5TpTq9UsNFKAqHJItS20bMJ6pLvWnbgGicnrl2z6OuUlh7QGR/7eCsZj/KgTc5PQ==}
+    peerDependencies:
+      vue: ^3.5.11
 
   '@epframe/meta-dependencies@0.0.25':
     resolution: {integrity: sha512-sl71Yw4uDUTQ3EMudWluB3j8FIAPE6lHjRzaCx2/3haOOvUAzOo4dQ2LNinH6YAt95WvzM0bLqiqY0eqxpqyGw==}
@@ -1066,6 +1044,18 @@ packages:
   '@epframe/vite-plugin-workspace-hmr@1.0.0':
     resolution: {integrity: sha512-63oIKHQCJ9reR9OEitW/rPxihwxv9AWuxo+XQPL1IdsWJXYN50PqzT+OqkTEF74JqWhq4hbZ+VnZoSOgHWtRlA==}
 
+  '@epframe/vue-page-core@0.0.18':
+    resolution: {integrity: sha512-X54oRFZI/wmLLeISxIKUERdXJbOy/YEzdKsfQ7OCK5fk1pC3A1phg7k4eazq0L5cG/FvK9HVMB/25drRyN3yMg==}
+    peerDependencies:
+      '@epoint-fe/utils': '*'
+      vue: 3.5.11
+
+  '@epframe/vue-page@0.0.18':
+    resolution: {integrity: sha512-K2NLqrE4LYSXtOqcLCikioQMxUgX/frjdrd0ekksPCUAnf7Th0LnRROOwp0G+627z3XsquzwOOEtJ4taNvzl+Q==}
+    peerDependencies:
+      '@epframe/eui-core': '*'
+      vue: 3.5.11
+
   '@epoint-fe/ai-chat@2.0.9':
     resolution: {integrity: sha512-jqbDnM3e9VbFtIucLKETZOzBrN4sbegrAm7WqI2WX6XfAiyu9D53oAwPvjMFHZxBc6K90xAjBGcS+8xr+tHVcA==}
     engines: {node: '>=20.11.1', npm: '>=10'}
@@ -1099,13 +1089,20 @@ packages:
     peerDependencies:
       vue: ^3.3.13
 
-  '@epoint-fe/eui-components@10.0.7':
-    resolution: {integrity: sha512-hE7XFsZdpbLR8M+MFLQyrnpjOt56nopu9XUCAsutpGUmCTWmmX7X7FcovkdlejNgRwbE3t9fnsuoriKTIvA2hA==}
-    peerDependencies:
-      vue: ^3.3.13
-
   '@epoint-fe/eui-hooks@10.0.3':
     resolution: {integrity: sha512-Db6KbHg3sGwX+IEGsdLmTl4d8geqkZ/5VG2ra+T/OuDv50tu82DLD9kyZBAHM4nt6tcU4nytmTmKUZadghYqTQ==}
+    peerDependencies:
+      '@epoint-fe/utils': ~10.0.3
+      vue: ^3.3.4
+
+  '@epoint-fe/eui-hooks@10.0.3-SNAPSHOT.1':
+    resolution: {integrity: sha512-y6Afe9flK+iZfh5xFeHMG7nj14aIVSAuuOf3ut01YKbWiy7/IG4Zg242+f67XTFa4dPlMRh2fkp0AFsEaQC8nw==}
+    peerDependencies:
+      '@epoint-fe/utils': ~10.0.3
+      vue: ^3.3.4
+
+  '@epoint-fe/eui-hooks@10.0.3-beta.6':
+    resolution: {integrity: sha512-8x8P4IxejJy1Q29f1fx9D8bbs85ki2IAwYFxRtDhEOYKGP3jJPRtngfN3FSgNN32hSN1Til17MMI68Cwt9ffNQ==}
     peerDependencies:
       '@epoint-fe/utils': ~10.0.3
       vue: ^3.3.4
@@ -1157,8 +1154,14 @@ packages:
   '@epoint-fe/utils@10.0.3':
     resolution: {integrity: sha512-Ai4Kw7xRZgYcMkyvxHLxw0N96V90WrGPob1y9r2cjk1Bzfb7+ZW2kO0V3qgoNs2dS9tXV9vK+qc6p6RM+vjb6w==}
 
+  '@epoint-fe/utils@10.0.3-SNAPSHOT.1':
+    resolution: {integrity: sha512-cWUUgbfjcklOOYQwQ/eq5Tcq0z3uaPMc+2NIrZNqcjhC9j43YzWQb29fa04YuCfctSrmj9SbnptBkLYJA+P+LQ==}
+
   '@epoint-fe/utils@10.0.3-beta.1':
     resolution: {integrity: sha512-vFfgkdApXluvwaklRd+38keE18XjRNDZcPrjDxtg+MY5PXjtQtpq7QxOMzMxr6+Ff6SoC5W/Ls324UN+CDH6Sw==}
+
+  '@epoint-fe/utils@10.0.3-beta.6':
+    resolution: {integrity: sha512-XBXmcbzCx76VeMl+ZFljCsBaRsBtgQrdQzVDRXhES46k0Krl28BaR/rq33afjeoJ4N9BOBeoeG4g7ks3XZmfGg==}
 
   '@epoint-fe/vuedraggable@4.1.0':
     resolution: {integrity: sha512-qLQLnVnQUMawuqYapibgSJUC5qixvzf7/oM8yaBEKQFS5AFoVdg0IKRagCNgc2KyrEckcnU7X7bFPpYQ8FnntQ==}
@@ -1932,6 +1935,9 @@ packages:
   '@types/validator@13.15.10':
     resolution: {integrity: sha512-T8L6i7wCuyoK8A/ZeLYt1+q0ty3Zb9+qbSSvrIVitzT3YjZqkTZ40IbRsPanlB4h1QB3JVL1SYCdR6ngtFYcuA==}
 
+  '@types/web-bluetooth@0.0.20':
+    resolution: {integrity: sha512-g9gZnnXVq7gM7v3tJCWV/qw7w+KeOlSHAhgF9RytFyifW6AF61hdT2ucrYhPq9hLs5JIryeupHV3qGk95dH9ow==}
+
   '@types/web-bluetooth@0.0.21':
     resolution: {integrity: sha512-oIQLCGWtcFZy2JW77j9k8nHzAOpqMHLQejDA48XXMWH6tjCQHz5RCFz1bzsmROyL6PUm+LLnUiI4BCn221inxA==}
 
@@ -2018,6 +2024,11 @@ packages:
 
   '@volar/typescript@2.4.28':
     resolution: {integrity: sha512-Ja6yvWrbis2QtN4ClAKreeUZPVYMARDYZl9LMEv1iQ1QdepB6wn0jTRxA9MftYmYa4DQ4k/DaSZpFPUfxl8giw==}
+
+  '@vue-flow/core@1.48.2':
+    resolution: {integrity: sha512-raxhgKWE+G/mcEvXJjGFUDYW9rAI3GOtiHR3ZkNpwBWuIaCC1EYiBmKGwJOoNzVFgwO7COgErnK7i08i287AFA==}
+    peerDependencies:
+      vue: ^3.3.0
 
   '@vue/babel-helper-vue-transform-on@1.5.0':
     resolution: {integrity: sha512-0dAYkerNhhHutHZ34JtTl2czVQHUNWv6xEbkdF5W+Yrv5pCWsqjeORdOgbtW2I9gWlt+wBmVn+ttqN9ZxR5tzA==}
@@ -2149,6 +2160,9 @@ packages:
   '@vue/typescript@1.8.5':
     resolution: {integrity: sha512-domFBbNr3PEcjGBeB+cmgUM3cI6pJsJezguIUKZ1rphkfIkICyoMjCd3TitoP32yo2KABLiaXcGFzgFfQf6B3w==}
 
+  '@vueuse/core@10.11.1':
+    resolution: {integrity: sha512-guoy26JQktXPcz+0n3GukWIy/JDNKti9v6VEMu6kV2sYBsWuGiTU8OWdg+ADfUbHg3/3DlqySDe7JmdHrktiww==}
+
   '@vueuse/core@13.9.0':
     resolution: {integrity: sha512-ts3regBQyURfCE2BcytLqzm8+MmLlo5Ln/KLoxDVcsZ2gzIwVNnQpQOL/UKV8alUqjSZOlpFZcRNsLRqj+OzyA==}
     peerDependencies:
@@ -2159,11 +2173,17 @@ packages:
     peerDependencies:
       vue: ^3.5.0
 
+  '@vueuse/metadata@10.11.1':
+    resolution: {integrity: sha512-IGa5FXd003Ug1qAZmyE8wF3sJ81xGLSqTqtQ6jaVfkeZ4i5kS2mwQF61yhVqojRnenVew5PldLyRgvdl4YYuSw==}
+
   '@vueuse/metadata@13.9.0':
     resolution: {integrity: sha512-1AFRvuiGphfF7yWixZa0KwjYH8ulyjDCC0aFgrGRz8+P4kvDFSdXLVfTk5xAN9wEuD1J6z4/myMoYbnHoX07zg==}
 
   '@vueuse/metadata@14.2.0':
     resolution: {integrity: sha512-i3axTGjU8b13FtyR4Keeama+43iD+BwX9C2TmzBVKqjSHArF03hjkp2SBZ1m72Jk2UtrX0aYCugBq2R1fhkuAQ==}
+
+  '@vueuse/shared@10.11.1':
+    resolution: {integrity: sha512-LHpC8711VFZlDaYUXEBbFBCQ7GS3dVU9mjOhhMhXP6txTV4EhYQg/KGnQuvt/sPAtoUKq7VVUnL6mVtFoL42sA==}
 
   '@vueuse/shared@13.9.0':
     resolution: {integrity: sha512-e89uuTLMh0U5cZ9iDpEI2senqPGfbPRTHM/0AaQkcxnpqjkZqDYP8rpfm7edOz8s+pOCOROEy1PIveSW8+fL5g==}
@@ -2529,6 +2549,44 @@ packages:
     resolution: {integrity: sha512-KP93cTbZxgWYDKJzZpjnLe0sy/2FwyegatnrOaqsath04WinvsdhZl5QCGkxTKBY2DavpKloIBW/WGZzCKmrlA==}
     engines: {node: '>=v12.20.0'}
     hasBin: true
+
+  d3-color@3.1.0:
+    resolution: {integrity: sha512-zg/chbXyeBtMQ1LbD/WSoW2DpC3I0mpmPdW+ynRTj/x2DAWYrIY7qeZIHidozwV24m4iavr15lNwIwLxRmOxhA==}
+    engines: {node: '>=12'}
+
+  d3-dispatch@3.0.1:
+    resolution: {integrity: sha512-rzUyPU/S7rwUflMyLc1ETDeBj0NRuHKKAcvukozwhshr6g6c5d8zh4c2gQjY2bZ0dXeGLWc1PF174P2tVvKhfg==}
+    engines: {node: '>=12'}
+
+  d3-drag@3.0.0:
+    resolution: {integrity: sha512-pWbUJLdETVA8lQNJecMxoXfH6x+mO2UQo8rSmZ+QqxcbyA3hfeprFgIT//HW2nlHChWeIIMwS2Fq+gEARkhTkg==}
+    engines: {node: '>=12'}
+
+  d3-ease@3.0.1:
+    resolution: {integrity: sha512-wR/XK3D3XcLIZwpbvQwQ5fK+8Ykds1ip7A2Txe0yxncXSdq1L9skcG7blcedkOX+ZcgxGAmLX1FrRGbADwzi0w==}
+    engines: {node: '>=12'}
+
+  d3-interpolate@3.0.1:
+    resolution: {integrity: sha512-3bYs1rOD33uo8aqJfKP3JWPAibgw8Zm2+L9vBKEHJ2Rg+viTR7o5Mmv5mZcieN+FRYaAOWX5SJATX6k1PWz72g==}
+    engines: {node: '>=12'}
+
+  d3-selection@3.0.0:
+    resolution: {integrity: sha512-fmTRWbNMmsmWq6xJV8D19U/gw/bwrHfNXxrIN+HfZgnzqTHp9jOmKMhsTUjXOJnZOdZY9Q28y4yebKzqDKlxlQ==}
+    engines: {node: '>=12'}
+
+  d3-timer@3.0.1:
+    resolution: {integrity: sha512-ndfJ/JxxMd3nw31uyKoY2naivF+r29V+Lc0svZxe1JvvIRmi8hUsrMvdOwgS1o6uBHmiz91geQ0ylPP0aj1VUA==}
+    engines: {node: '>=12'}
+
+  d3-transition@3.0.1:
+    resolution: {integrity: sha512-ApKvfjsSR6tg06xrL434C0WydLr7JewBB3V+/39RMHsaXTOG0zmt/OAXeng5M5LBm0ojmxJrpomQVZ1aPvBL4w==}
+    engines: {node: '>=12'}
+    peerDependencies:
+      d3-selection: 2 - 3
+
+  d3-zoom@3.0.0:
+    resolution: {integrity: sha512-b8AmV3kfQaqWAuacbPuNbL6vahnOJflOhexLzMMNLga62+/nh0JzvJ0aO/5a5MVgUFGS7Hu1P9P03o3fJkDCyw==}
+    engines: {node: '>=12'}
 
   dargs@7.0.0:
     resolution: {integrity: sha512-2iy1EkLdlBzQGvbweYRFxmFath8+K7+AKB0TlhHWkNuH+TmovaMH/Wp7V7R4u7f4SnX3OgLsU9t1NI9ioDnUpg==}
@@ -5194,12 +5252,21 @@ snapshots:
     transitivePeerDependencies:
       - typescript
 
-  '@epframe/epoint-agent-components@2.3.5(4bf06f3ea8c7c7298666e23bf549b198)':
+  '@epframe/editor@10.0.3(@epoint-fe/utils@10.0.3-beta.6)(typescript@5.7.3)':
     dependencies:
-      '@epframe/epoint-agent-hooks': 2.3.3(@epframe/eui-core@10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))
-      '@epframe/epoint-agent-utils': 2.3.1(@epframe/eui-core@10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
-      '@epoint-fe/eui-components': 10.0.7(vue@3.5.11(typescript@5.7.3))
+      '@epoint-fe/utils': 10.0.3-beta.6
+      vue: 3.5.11(typescript@5.7.3)
+      vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
+      vue-ueditor-wrap: 3.0.8(vue@3.5.11(typescript@5.7.3))
+    transitivePeerDependencies:
+      - typescript
+
+  '@epframe/epoint-agent-components@2.3.5(0ef2eb634e5e5859e20665da822d8f3b)':
+    dependencies:
+      '@epframe/epoint-agent-hooks': 2.3.3(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/epoint-agent-utils': 2.3.1(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/utils': 10.0.3-beta.1
@@ -5211,20 +5278,20 @@ snapshots:
       vue-easy-lightbox: 1.19.0(vue@3.5.11(typescript@5.7.3))
       vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
 
-  '@epframe/epoint-agent-hooks@2.3.3(@epframe/eui-core@10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))':
+  '@epframe/epoint-agent-hooks@2.3.3(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))':
     dependencies:
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
-      '@epoint-fe/eui-components': 10.0.7(vue@3.5.11(typescript@5.7.3))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/utils': 10.0.3-beta.1
       vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
 
-  '@epframe/epoint-agent-modelsquare@2.3.2(4bf06f3ea8c7c7298666e23bf549b198)':
+  '@epframe/epoint-agent-modelsquare@2.3.2(0ef2eb634e5e5859e20665da822d8f3b)':
     dependencies:
-      '@epframe/epoint-agent-hooks': 2.3.3(@epframe/eui-core@10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))
-      '@epframe/epoint-agent-utils': 2.3.1(@epframe/eui-core@10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
-      '@epoint-fe/eui-components': 10.0.7(vue@3.5.11(typescript@5.7.3))
+      '@epframe/epoint-agent-hooks': 2.3.3(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/epoint-agent-utils': 2.3.1(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/utils': 10.0.3-beta.1
@@ -5236,19 +5303,19 @@ snapshots:
       vue-easy-lightbox: 1.19.0(vue@3.5.11(typescript@5.7.3))
       vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
 
-  '@epframe/epoint-agent-utils@2.3.1(@epframe/eui-core@10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))':
+  '@epframe/epoint-agent-utils@2.3.1(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))':
     dependencies:
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
-      '@epoint-fe/eui-components': 10.0.7(vue@3.5.11(typescript@5.7.3))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
 
-  '@epframe/epoint-agent-workbench@2.3.22(7a6c279efa4916942d5cb13ea131826e)':
+  '@epframe/epoint-agent-workbench@2.3.22(8a3ffff076366fa82daaef597f56e856)':
     dependencies:
-      '@epframe/epoint-agent-hooks': 2.3.3(@epframe/eui-core@10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))
-      '@epframe/epoint-agent-utils': 2.3.1(@epframe/eui-core@10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/epoint-agent-hooks': 2.3.3(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/epoint-agent-utils': 2.3.1(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))
       '@epframe/epoint-appcenter-vue': link:epoint-appcenter-vue
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
-      '@epoint-fe/ai-chat': 2.0.9(@epframe/theme-manager@1.2.21(5b30ee3c6426b1025682d547c0d5b8f0))(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-theme-eva@10.0.16(33f3c6b4bad8a01c5c26dc19366c451b))(@epoint-fe/jquery@3.7.1)(@epoint-fe/utils@10.0.3-beta.1)(he@1.2.0)(markdown-it-attrs@4.3.1(markdown-it@14.1.0))(markdown-it-footnote@4.0.0)(markdown-it-highlightjs@4.3.0)(markdown-it@14.1.0)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(portal-vue@3.0.0(vue@3.5.11(typescript@5.7.3)))(swiper@11.2.10)(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/eui-components': 10.0.7(vue@3.5.11(typescript@5.7.3))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epoint-fe/ai-chat': 2.0.9(e1b1f5973e2c04daccfdec4889fe245b)
+      '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/instruction-set': 1.0.8
@@ -5277,27 +5344,37 @@ snapshots:
       vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
       vuedraggable: 4.1.0(vue@3.5.11(typescript@5.7.3))
 
-  '@epframe/epoint-demo-vue@2.0.1-SNAPSHOT.3(8dd9776f0a60a543833ff502759a3ee7)':
+  '@epframe/epoint-demo-vue@2.0.1-SNAPSHOT.9(html2canvas@1.4.1)(jspdf@2.5.2)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-cropper@1.1.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))':
     dependencies:
-      '@epframe/epoint-workflow-vue': 10.0.1-beta2.2(5928d2b61396053b6d6cbaa13bc036d3)
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/epoint-epaas': 10.0.1-SNAPSHOT.9(html2canvas@1.4.1)(jspdf@2.5.2)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-cropper@1.1.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/epoint-workflow-vue': 10.0.1-SNAPSHOT.29(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/vue-page': 0.0.18(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/utils@10.0.3-beta.6)(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
+      '@epoint-fe/eui-hooks': 10.0.3-beta.6(@epoint-fe/utils@10.0.3-beta.6)(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/utils': 10.0.3-beta.1
+      '@epoint-fe/utils': 10.0.3-beta.6
       pinia: 2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))
       pinia-plugin-persistedstate: 3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))
       vue: 3.5.11(typescript@5.7.3)
       vue-draggable-plus: 0.6.1(@types/sortablejs@1.15.9)
       vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
+    transitivePeerDependencies:
+      - '@vue/composition-api'
+      - debug
+      - html2canvas
+      - jspdf
+      - qrcode
+      - vue-cropper
+      - vuedraggable-es
 
-  '@epframe/epoint-epaas@10.0.1-SNAPSHOT.4(9e3f217b69e1d4574e6acc7ea4b95778)':
+  '@epframe/epoint-epaas@10.0.1-SNAPSHOT.9(html2canvas@1.4.1)(jspdf@2.5.2)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-cropper@1.1.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))':
     dependencies:
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
-      '@epoint-fe/eui-components': 10.0.7(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
+      '@epframe/eui-core': 10.0.6-snapshot.11(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
+      '@epoint-fe/eui-hooks': 10.0.3-SNAPSHOT.1(@epoint-fe/utils@10.0.3-SNAPSHOT.1)(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/utils': 10.0.3-beta.1
+      '@epoint-fe/utils': 10.0.3-SNAPSHOT.1
       html2canvas: 1.4.1
       jspdf: 2.5.2
       pinia: 2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))
@@ -5308,30 +5385,14 @@ snapshots:
       vue-draggable-plus: 0.6.1(@types/sortablejs@1.15.9)
       vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
       vuedraggable-es: 4.1.1(vue@3.5.11(typescript@5.7.3))
+    transitivePeerDependencies:
+      - debug
 
-  '@epframe/epoint-epaas@10.0.1-SNAPSHOT.5(5d9c0097007e13d3759839889a6edc30)':
-    dependencies:
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
-      '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/utils': 10.0.3-beta.1
-      html2canvas: 1.4.1
-      jspdf: 2.5.2
-      pinia: 2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))
-      pinia-plugin-persistedstate: 3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))
-      qrcode: 1.5.4
-      vue: 3.5.11(typescript@5.7.3)
-      vue-cropper: 1.1.4
-      vue-draggable-plus: 0.6.1(@types/sortablejs@1.15.9)
-      vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
-      vuedraggable-es: 4.1.1(vue@3.5.11(typescript@5.7.3))
-
-  '@epframe/epoint-knowledge-vue@1.0.19(f15d4cd32e6cfe517432ea89b7fab9b2)':
+  '@epframe/epoint-knowledge-vue@1.0.19(@epframe/epoint-appcenter-vue@epoint-appcenter-vue)(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(@epoint-fe/vuedraggable@4.1.0(vue@3.5.11(typescript@5.7.3)))(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))':
     dependencies:
       '@epframe/epoint-appcenter-vue': link:epoint-appcenter-vue
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
-      '@epoint-fe/eui-components': 10.0.7(vue@3.5.11(typescript@5.7.3))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/utils': 10.0.3-beta.1
@@ -5353,11 +5414,11 @@ snapshots:
       - encoding
       - supports-color
 
-  '@epframe/epoint-lowcode-vue@10.0.1-beta.1(16a6f9ac75f278f5a7b98fdbc21f0137)':
+  '@epframe/epoint-lowcode-vue@10.0.1-beta.1(74ef875d365455ce03d3e897f6c36396)':
     dependencies:
       '@epframe/epoint-appcenter-vue': link:epoint-appcenter-vue
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
-      '@epoint-fe/eui-components': 10.0.7(vue@3.5.11(typescript@5.7.3))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/utils': 10.0.3-beta.1
@@ -5371,24 +5432,54 @@ snapshots:
       vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
       wd-hanzi2pinyin: 0.0.11
 
-  '@epframe/epoint-mini@10.0.1-SNAPSHOT.2(5928d2b61396053b6d6cbaa13bc036d3)':
+  '@epframe/epoint-mini@10.0.1-SNAPSHOT.4(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))':
     dependencies:
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
       '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
+      '@epoint-fe/eui-hooks': 10.0.3-beta.6(@epoint-fe/utils@10.0.3-beta.6)(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/utils': 10.0.3-beta.1
+      '@epoint-fe/utils': 10.0.3-beta.6
       pinia: 2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))
       pinia-plugin-persistedstate: 3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))
       vue: 3.5.11(typescript@5.7.3)
       vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
+    transitivePeerDependencies:
+      - debug
+      - qrcode
+      - vue-draggable-plus
+      - vuedraggable-es
 
-  '@epframe/epoint-sform-vue@10.0.1-SNAPSHOT.88(dbc277809697e4f48b22ac717b2c286b)':
+  '@epframe/epoint-sform-vue@10.0.1-SNAPSHOT.107(html2canvas@1.4.1)(jspdf@2.5.2)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(typescript@5.7.3)(vue-cropper@1.1.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))':
+    dependencies:
+      '@epframe/editor': 10.0.3(@epoint-fe/utils@10.0.3-beta.6)(typescript@5.7.3)
+      '@epframe/epoint-epaas': 10.0.1-SNAPSHOT.9(html2canvas@1.4.1)(jspdf@2.5.2)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-cropper@1.1.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/epoint-workflow-vue': 10.0.1-SNAPSHOT.29(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
+      '@epoint-fe/eui-hooks': 10.0.3-beta.6(@epoint-fe/utils@10.0.3-beta.6)(vue@3.5.11(typescript@5.7.3))
+      '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
+      '@epoint-fe/utils': 10.0.3-beta.6
+      pinia: 2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))
+      pinia-plugin-persistedstate: 3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))
+      vue: 3.5.11(typescript@5.7.3)
+      vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
+    transitivePeerDependencies:
+      - '@vue/composition-api'
+      - debug
+      - html2canvas
+      - jspdf
+      - qrcode
+      - typescript
+      - vue-cropper
+      - vue-draggable-plus
+      - vuedraggable-es
+
+  '@epframe/epoint-sform-vue@10.0.1-beta.6(dc70f90824b532c92637e0d011cce05f)':
     dependencies:
       '@epframe/editor': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(typescript@5.7.3)
-      '@epframe/epoint-epaas': 10.0.1-SNAPSHOT.5(5d9c0097007e13d3759839889a6edc30)
-      '@epframe/epoint-workflow-vue': 10.0.1-beta2.2(5928d2b61396053b6d6cbaa13bc036d3)
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/epoint-epaas': 10.0.1-SNAPSHOT.9(html2canvas@1.4.1)(jspdf@2.5.2)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-cropper@1.1.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/epoint-workflow-vue': 10.0.1-beta2.2(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
       '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
@@ -5398,23 +5489,28 @@ snapshots:
       vue: 3.5.11(typescript@5.7.3)
       vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
 
-  '@epframe/epoint-sform-vue@10.0.1-beta.1(b93edce47200fb78a78d8b177fd43086)':
+  '@epframe/epoint-workflow-vue@10.0.1-SNAPSHOT.29(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))':
     dependencies:
-      '@epframe/editor': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(typescript@5.7.3)
-      '@epframe/epoint-workflow-vue': 10.0.1-beta2.2(5b30ee3c6426b1025682d547c0d5b8f0)
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
-      '@epoint-fe/eui-components': 10.0.7(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
+      '@epframe/eui-core': 10.0.6-snapshot.11(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
+      '@epoint-fe/eui-hooks': 10.0.3-SNAPSHOT.1(@epoint-fe/utils@10.0.3-SNAPSHOT.1)(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/utils': 10.0.3-beta.1
+      '@epoint-fe/utils': 10.0.3-SNAPSHOT.1
+      '@vue-flow/core': 1.48.2(vue@3.5.11(typescript@5.7.3))
       pinia: 2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))
       pinia-plugin-persistedstate: 3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))
       vue: 3.5.11(typescript@5.7.3)
       vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
+    transitivePeerDependencies:
+      - '@vue/composition-api'
+      - debug
+      - qrcode
+      - vue-draggable-plus
+      - vuedraggable-es
 
-  '@epframe/epoint-workflow-vue@10.0.1-beta2.2(5928d2b61396053b6d6cbaa13bc036d3)':
+  '@epframe/epoint-workflow-vue@10.0.1-beta2.2(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))':
     dependencies:
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
       '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
@@ -5424,13 +5520,13 @@ snapshots:
       vue: 3.5.11(typescript@5.7.3)
       vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
 
-  '@epframe/epoint-workflow-vue@10.0.1-beta2.2(5b30ee3c6426b1025682d547c0d5b8f0)':
+  '@epframe/epoint-workflow-vue@10.0.1-beta2.2(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.6)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.6)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))':
     dependencies:
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
-      '@epoint-fe/eui-components': 10.0.7(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
+      '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3-beta.6)(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/utils': 10.0.3-beta.1
+      '@epoint-fe/utils': 10.0.3-beta.6
       pinia: 2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))
       pinia-plugin-persistedstate: 3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))
       vue: 3.5.11(typescript@5.7.3)
@@ -5453,29 +5549,12 @@ snapshots:
       vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
       vuedraggable-es: 4.1.1(vue@3.5.11(typescript@5.7.3))
 
-  '@epframe/eui-core@10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))':
-    dependencies:
-      '@epoint-fe/eui-components': 10.0.7(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/utils': 10.0.3-beta.1
-      opencc-js: 1.0.5
-      pinia: 2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))
-      pinia-plugin-persistedstate: 3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))
-      qrcode: 1.5.4
-      quill: 2.0.3
-      vue: 3.5.11(typescript@5.7.3)
-      vue-draggable-plus: 0.6.1(@types/sortablejs@1.15.9)
-      vue-i18n: 11.2.8(vue@3.5.11(typescript@5.7.3))
-      vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
-      vuedraggable-es: 4.1.1(vue@3.5.11(typescript@5.7.3))
-
-  '@epframe/eui-core@10.0.6-beta.27(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))':
+  '@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))':
     dependencies:
       '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
+      '@epoint-fe/eui-hooks': 10.0.3-beta.6(@epoint-fe/utils@10.0.3-beta.6)(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/utils': 10.0.3
+      '@epoint-fe/utils': 10.0.3-beta.6
       opencc-js: 1.0.5
       pinia: 2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))
       pinia-plugin-persistedstate: 3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))
@@ -5486,21 +5565,48 @@ snapshots:
       vue-i18n: 11.2.8(vue@3.5.11(typescript@5.7.3))
       vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
       vuedraggable-es: 4.1.1(vue@3.5.11(typescript@5.7.3))
+    transitivePeerDependencies:
+      - debug
 
-  '@epframe/meta-dependencies@0.0.25(@epframe/epoint-workflow-vue@10.0.1-beta2.2(5928d2b61396053b6d6cbaa13bc036d3))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))':
+  '@epframe/eui-core@10.0.6-snapshot.11(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))':
     dependencies:
-      '@epframe/eui-core': 10.0.6-beta.27(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/eui-page-core': 10.0.0-snapshot.3(vue@3.5.11(typescript@5.7.3))
+      '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
+      '@epoint-fe/eui-hooks': 10.0.3-SNAPSHOT.1(@epoint-fe/utils@10.0.3-SNAPSHOT.1)(vue@3.5.11(typescript@5.7.3))
+      '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
+      '@epoint-fe/utils': 10.0.3-SNAPSHOT.1
+      opencc-js: 1.0.5
+      pinia: 2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))
+      pinia-plugin-persistedstate: 3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))
+      qrcode: 1.5.4
+      quill: 2.0.3
+      vue: 3.5.11(typescript@5.7.3)
+      vue-draggable-plus: 0.6.1(@types/sortablejs@1.15.9)
+      vue-i18n: 11.2.8(vue@3.5.11(typescript@5.7.3))
+      vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
+      vuedraggable-es: 4.1.1(vue@3.5.11(typescript@5.7.3))
+    transitivePeerDependencies:
+      - debug
+
+  '@epframe/eui-page-core@10.0.0-snapshot.3(vue@3.5.11(typescript@5.7.3))':
+    dependencies:
+      '@epoint-fe/utils': 10.0.3-SNAPSHOT.1
+      vue: 3.5.11(typescript@5.7.3)
+    transitivePeerDependencies:
+      - debug
+
+  '@epframe/meta-dependencies@0.0.25(957232a99c7dfb3cdf5128a881369dea)':
+    dependencies:
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
       '@epframe/meta-engine': 0.0.25
       '@epframe/meta-framework': 0.0.25
-      '@epframe/meta-vue': 0.0.25(@epframe/epoint-workflow-vue@10.0.1-beta2.2(5928d2b61396053b6d6cbaa13bc036d3))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/meta-vue': 0.0.25(957232a99c7dfb3cdf5128a881369dea)
       '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/utils': 10.0.3
       '@oinone/kunlun-spi': 6.3.1
       vue: 3.5.11(typescript@5.7.3)
     transitivePeerDependencies:
       - '@epframe/epoint-workflow-vue'
-      - '@epoint-fe/eui-hooks'
-      - '@epoint-fe/eui-icons'
       - debug
       - pinia
       - pinia-plugin-persistedstate
@@ -5526,10 +5632,10 @@ snapshots:
     transitivePeerDependencies:
       - debug
 
-  '@epframe/meta-runtime-components@0.0.25(@epframe/epoint-workflow-vue@10.0.1-beta2.2(5928d2b61396053b6d6cbaa13bc036d3))(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))':
+  '@epframe/meta-runtime-components@0.0.25(957232a99c7dfb3cdf5128a881369dea)':
     dependencies:
-      '@epframe/eui-core': 10.0.6-beta.27(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
-      '@epframe/meta-dependencies': 0.0.25(@epframe/epoint-workflow-vue@10.0.1-beta2.2(5928d2b61396053b6d6cbaa13bc036d3))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/meta-dependencies': 0.0.25(957232a99c7dfb3cdf5128a881369dea)
       '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3)(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
@@ -5545,10 +5651,10 @@ snapshots:
       - vue-draggable-plus
       - vuedraggable-es
 
-  '@epframe/meta-vue@0.0.25(@epframe/epoint-workflow-vue@10.0.1-beta2.2(5928d2b61396053b6d6cbaa13bc036d3))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))':
+  '@epframe/meta-vue@0.0.25(957232a99c7dfb3cdf5128a881369dea)':
     dependencies:
-      '@epframe/epoint-workflow-vue': 10.0.1-beta2.2(5928d2b61396053b6d6cbaa13bc036d3)
-      '@epframe/eui-core': 10.0.6-beta.27(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/epoint-workflow-vue': 10.0.1-beta2.2(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.6)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.6)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
       '@epframe/meta-engine': 0.0.25
       '@epframe/meta-framework': 0.0.25
       '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3)(vue@3.5.11(typescript@5.7.3))
@@ -5558,7 +5664,6 @@ snapshots:
       lodash-es: 4.17.21
       vue: 3.5.11(typescript@5.7.3)
     transitivePeerDependencies:
-      - '@epoint-fe/eui-components'
       - debug
       - pinia
       - pinia-plugin-persistedstate
@@ -5567,10 +5672,10 @@ snapshots:
       - vue-router
       - vuedraggable-es
 
-  '@epframe/theme-manager@1.2.21(5b30ee3c6426b1025682d547c0d5b8f0)':
+  '@epframe/theme-manager@1.2.21(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))':
     dependencies:
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
-      '@epoint-fe/eui-components': 10.0.7(vue@3.5.11(typescript@5.7.3))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/utils': 10.0.3-beta.1
@@ -5603,13 +5708,26 @@ snapshots:
     dependencies:
       '@manypkg/get-packages': 2.2.2
 
-  '@epoint-fe/ai-chat@2.0.9(@epframe/theme-manager@1.2.21(5b30ee3c6426b1025682d547c0d5b8f0))(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-theme-eva@10.0.16(33f3c6b4bad8a01c5c26dc19366c451b))(@epoint-fe/jquery@3.7.1)(@epoint-fe/utils@10.0.3-beta.1)(he@1.2.0)(markdown-it-attrs@4.3.1(markdown-it@14.1.0))(markdown-it-footnote@4.0.0)(markdown-it-highlightjs@4.3.0)(markdown-it@14.1.0)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(portal-vue@3.0.0(vue@3.5.11(typescript@5.7.3)))(swiper@11.2.10)(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))':
+  '@epframe/vue-page-core@0.0.18(@epoint-fe/utils@10.0.3-beta.6)(vue@3.5.11(typescript@5.7.3))':
     dependencies:
-      '@epframe/theme-manager': 1.2.21(5b30ee3c6426b1025682d547c0d5b8f0)
-      '@epoint-fe/eui-components': 10.0.7(vue@3.5.11(typescript@5.7.3))
+      '@epoint-fe/utils': 10.0.3-beta.6
+      vue: 3.5.11(typescript@5.7.3)
+
+  '@epframe/vue-page@0.0.18(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/utils@10.0.3-beta.6)(vue@3.5.11(typescript@5.7.3))':
+    dependencies:
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/vue-page-core': 0.0.18(@epoint-fe/utils@10.0.3-beta.6)(vue@3.5.11(typescript@5.7.3))
+      vue: 3.5.11(typescript@5.7.3)
+    transitivePeerDependencies:
+      - '@epoint-fe/utils'
+
+  '@epoint-fe/ai-chat@2.0.9(e1b1f5973e2c04daccfdec4889fe245b)':
+    dependencies:
+      '@epframe/theme-manager': 1.2.21(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))
+      '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-hooks': 10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/eui-theme-eva': 10.0.16(33f3c6b4bad8a01c5c26dc19366c451b)
+      '@epoint-fe/eui-theme-eva': 10.0.16(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(@types/sortablejs@1.15.9)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/jquery': 3.7.1
       '@epoint-fe/utils': 10.0.3-beta.1
       crypto-js: 4.2.0
@@ -5655,19 +5773,6 @@ snapshots:
       normalize-wheel-es: 1.2.0
       vue: 3.5.11(typescript@5.7.3)
 
-  '@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3))':
-    dependencies:
-      '@ctrl/tinycolor': 4.2.0
-      '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
-      '@floating-ui/dom': 1.7.5
-      '@popperjs/core': '@sxzz/popperjs-es@2.11.8'
-      '@vueuse/core': 14.2.0(vue@3.5.11(typescript@5.7.3))
-      dayjs: 1.11.19
-      escape-html: 1.0.3
-      memoize-one: 6.0.0
-      normalize-wheel-es: 1.2.0
-      vue: 3.5.11(typescript@5.7.3)
-
   '@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3)(vue@3.5.11(typescript@5.7.3))':
     dependencies:
       '@epoint-fe/utils': 10.0.3
@@ -5678,14 +5783,29 @@ snapshots:
       '@epoint-fe/utils': 10.0.3-beta.1
       vue: 3.5.11(typescript@5.7.3)
 
+  '@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.6)(vue@3.5.11(typescript@5.7.3))':
+    dependencies:
+      '@epoint-fe/utils': 10.0.3-beta.6
+      vue: 3.5.11(typescript@5.7.3)
+
+  '@epoint-fe/eui-hooks@10.0.3-SNAPSHOT.1(@epoint-fe/utils@10.0.3-SNAPSHOT.1)(vue@3.5.11(typescript@5.7.3))':
+    dependencies:
+      '@epoint-fe/utils': 10.0.3-SNAPSHOT.1
+      vue: 3.5.11(typescript@5.7.3)
+
+  '@epoint-fe/eui-hooks@10.0.3-beta.6(@epoint-fe/utils@10.0.3-beta.6)(vue@3.5.11(typescript@5.7.3))':
+    dependencies:
+      '@epoint-fe/utils': 10.0.3-beta.6
+      vue: 3.5.11(typescript@5.7.3)
+
   '@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3))':
     dependencies:
       vue: 3.5.11(typescript@5.7.3)
 
-  '@epoint-fe/eui-theme-ego@10.0.7(8927873f3d5594f08b38278e744ca86f)':
+  '@epoint-fe/eui-theme-ego@10.0.7(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))':
     dependencies:
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
-      '@epoint-fe/eui-components': 10.0.7(vue@3.5.11(typescript@5.7.3))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/utils': 10.0.3-beta.1
       pinia: 2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))
@@ -5693,10 +5813,10 @@ snapshots:
       vue: 3.5.11(typescript@5.7.3)
       vue-router: 4.4.5(vue@3.5.11(typescript@5.7.3))
 
-  '@epoint-fe/eui-theme-eva@10.0.16(33f3c6b4bad8a01c5c26dc19366c451b)':
+  '@epoint-fe/eui-theme-eva@10.0.16(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(@types/sortablejs@1.15.9)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))':
     dependencies:
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.7(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
-      '@epoint-fe/eui-components': 10.0.7(vue@3.5.11(typescript@5.7.3))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/utils': 10.0.3-beta.1
       '@vueuse/core': 13.9.0(vue@3.5.11(typescript@5.7.3))
@@ -5713,12 +5833,12 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@epoint-fe/eui-theme-eva@10.0.16(5b40d7e5baebff059bbde897b1eb5459)':
+  '@epoint-fe/eui-theme-eva@10.0.16(@epframe/eui-core@10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3))))(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.6)(@types/sortablejs@1.15.9)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))':
     dependencies:
-      '@epframe/eui-core': 10.0.6-beta.21(@epoint-fe/eui-components@10.0.12(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-hooks@10.0.3(@epoint-fe/utils@10.0.3-beta.1)(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/eui-icons@10.0.0(vue@3.5.11(typescript@5.7.3)))(@epoint-fe/utils@10.0.3-beta.1)(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
+      '@epframe/eui-core': 10.0.6-beta.41(pinia-plugin-persistedstate@3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))))(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))(qrcode@1.5.4)(vue-draggable-plus@0.6.1(@types/sortablejs@1.15.9))(vue-router@4.4.5(vue@3.5.11(typescript@5.7.3)))(vue@3.5.11(typescript@5.7.3))(vuedraggable-es@4.1.1(vue@3.5.11(typescript@5.7.3)))
       '@epoint-fe/eui-components': 10.0.12(vue@3.5.11(typescript@5.7.3))
       '@epoint-fe/eui-icons': 10.0.0(vue@3.5.11(typescript@5.7.3))
-      '@epoint-fe/utils': 10.0.3-beta.1
+      '@epoint-fe/utils': 10.0.3-beta.6
       '@vueuse/core': 13.9.0(vue@3.5.11(typescript@5.7.3))
       pinia: 2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3))
       pinia-plugin-persistedstate: 3.2.0(pinia@2.2.6(typescript@5.7.3)(vue@3.5.11(typescript@5.7.3)))
@@ -5757,7 +5877,27 @@ snapshots:
     transitivePeerDependencies:
       - debug
 
+  '@epoint-fe/utils@10.0.3-SNAPSHOT.1':
+    dependencies:
+      '@epoint-fe/fingerprintjs': 5.0.0
+      '@epoint-fe/gm-crypto.js': 0.1.1
+      '@epoint-mrc/utils': 8.4.4
+      axios: 1.13.5
+      crypto-js: 4.2.0
+    transitivePeerDependencies:
+      - debug
+
   '@epoint-fe/utils@10.0.3-beta.1':
+    dependencies:
+      '@epoint-fe/fingerprintjs': 5.0.0
+      '@epoint-fe/gm-crypto.js': 0.1.1
+      '@epoint-mrc/utils': 8.4.4
+      axios: 1.13.5
+      crypto-js: 4.2.0
+    transitivePeerDependencies:
+      - debug
+
+  '@epoint-fe/utils@10.0.3-beta.6':
     dependencies:
       '@epoint-fe/fingerprintjs': 5.0.0
       '@epoint-fe/gm-crypto.js': 0.1.1
@@ -6322,6 +6462,8 @@ snapshots:
 
   '@types/validator@13.15.10': {}
 
+  '@types/web-bluetooth@0.0.20': {}
+
   '@types/web-bluetooth@0.0.21': {}
 
   '@typescript-eslint/eslint-plugin@8.55.0(@typescript-eslint/parser@8.55.0(eslint@9.39.2)(typescript@5.7.3))(eslint@9.39.2)(typescript@5.7.3)':
@@ -6448,6 +6590,17 @@ snapshots:
       '@volar/language-core': 2.4.28
       path-browserify: 1.0.1
       vscode-uri: 3.1.0
+
+  '@vue-flow/core@1.48.2(vue@3.5.11(typescript@5.7.3))':
+    dependencies:
+      '@vueuse/core': 10.11.1(vue@3.5.11(typescript@5.7.3))
+      d3-drag: 3.0.0
+      d3-interpolate: 3.0.1
+      d3-selection: 3.0.0
+      d3-zoom: 3.0.0
+      vue: 3.5.11(typescript@5.7.3)
+    transitivePeerDependencies:
+      - '@vue/composition-api'
 
   '@vue/babel-helper-vue-transform-on@1.5.0': {}
 
@@ -6678,6 +6831,16 @@ snapshots:
     transitivePeerDependencies:
       - typescript
 
+  '@vueuse/core@10.11.1(vue@3.5.11(typescript@5.7.3))':
+    dependencies:
+      '@types/web-bluetooth': 0.0.20
+      '@vueuse/metadata': 10.11.1
+      '@vueuse/shared': 10.11.1(vue@3.5.11(typescript@5.7.3))
+      vue-demi: 0.14.10(vue@3.5.11(typescript@5.7.3))
+    transitivePeerDependencies:
+      - '@vue/composition-api'
+      - vue
+
   '@vueuse/core@13.9.0(vue@3.5.11(typescript@5.7.3))':
     dependencies:
       '@types/web-bluetooth': 0.0.21
@@ -6692,9 +6855,18 @@ snapshots:
       '@vueuse/shared': 14.2.0(vue@3.5.11(typescript@5.7.3))
       vue: 3.5.11(typescript@5.7.3)
 
+  '@vueuse/metadata@10.11.1': {}
+
   '@vueuse/metadata@13.9.0': {}
 
   '@vueuse/metadata@14.2.0': {}
+
+  '@vueuse/shared@10.11.1(vue@3.5.11(typescript@5.7.3))':
+    dependencies:
+      vue-demi: 0.14.10(vue@3.5.11(typescript@5.7.3))
+    transitivePeerDependencies:
+      - '@vue/composition-api'
+      - vue
 
   '@vueuse/shared@13.9.0(vue@3.5.11(typescript@5.7.3))':
     dependencies:
@@ -7039,6 +7211,42 @@ snapshots:
   csstype@3.2.3: {}
 
   czg@1.7.1: {}
+
+  d3-color@3.1.0: {}
+
+  d3-dispatch@3.0.1: {}
+
+  d3-drag@3.0.0:
+    dependencies:
+      d3-dispatch: 3.0.1
+      d3-selection: 3.0.0
+
+  d3-ease@3.0.1: {}
+
+  d3-interpolate@3.0.1:
+    dependencies:
+      d3-color: 3.1.0
+
+  d3-selection@3.0.0: {}
+
+  d3-timer@3.0.1: {}
+
+  d3-transition@3.0.1(d3-selection@3.0.0):
+    dependencies:
+      d3-color: 3.1.0
+      d3-dispatch: 3.0.1
+      d3-ease: 3.0.1
+      d3-interpolate: 3.0.1
+      d3-selection: 3.0.0
+      d3-timer: 3.0.1
+
+  d3-zoom@3.0.0:
+    dependencies:
+      d3-dispatch: 3.0.1
+      d3-drag: 3.0.0
+      d3-interpolate: 3.0.1
+      d3-selection: 3.0.0
+      d3-transition: 3.0.1(d3-selection@3.0.0)
 
   dargs@7.0.0: {}
 

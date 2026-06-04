@@ -2,7 +2,7 @@ import { reactive, watch, computed } from 'vue';
 import { EMessage, EMessageBox } from '@epoint-fe/eui-components';
 import { debounce, getRightUrl, logger } from '@epoint-fe/utils';
 import { APP_CENTER_CONFIG } from '../constants';
-import { getAllAppClass, getClassList, editFolder, deleteFolder, moveFile, deleteApp, getDevelopersTag, copyExistingApp } from '../api';
+import { getAllAppClass, getClassList, editFolder, deleteFolder, moveFile, deleteApp, getDevelopersTree, copyExistingApp } from '../api';
 import type { AppCenterProps, AppCenterEmits, FolderItem, AppItem, ClassListItem, BreadCrumbItem, DeveloperstagItem } from '../type';
 
 // 更新操作/菜单导航栏、面包屑相关操作/文件操作/弹窗操作
@@ -94,11 +94,9 @@ export function useAppCenter(props: AppCenterProps, emit: AppCenterEmits) {
   // 初始化应用中心
   const initAppCenter = () => {
     // 获取供应商
-    handleGetDevelopersTag();
+    handleGetDevelopersTree();
     // 请求全部应用
     updateList(state.currentGuid);
-    // 请求导航栏的文件夹列表
-    updateMenuList();
   };
 
   // 清理资源
@@ -748,7 +746,7 @@ export function useAppCenter(props: AppCenterProps, emit: AppCenterEmits) {
     state.currentPackage = name;
     state.currentGuid = id;
     state.showApp = true;
-    handleGetDevelopersTag();
+    handleGetDevelopersTree();
     updateList(id);
 
     // 获取完整套件树并构建路径
@@ -771,16 +769,22 @@ export function useAppCenter(props: AppCenterProps, emit: AppCenterEmits) {
     }
   }
 
-  // 获取供应商
-  const handleGetDevelopersTag = async () => {
+  // 获取开发商
+  const handleGetDevelopersTree = async () => {
     state.developerstag = '';
     state.developerstagList = [];
     try {
-      const data = await getDevelopersTag({
-
+      const data = await getDevelopersTree({
+        parentguid: ''
       });
 
-      state.developerstagList = data.data ? data.data : [];
+      const payload = data?.data ?? data;
+      const list = Array.isArray(payload) ? payload : Array.isArray(payload?.data) ? payload.data : [];
+      state.developerstagList = list.map((item: any) => ({
+        ...item,
+        id: item.id || item.guid || item.rowguid || item.value || '',
+        text: item.text || item.name || item.label || item.developername || item.developersname || ''
+      }));
       state.developerstagList.unshift({
         id: '',
         text: '全部'
@@ -846,6 +850,6 @@ export function useAppCenter(props: AppCenterProps, emit: AppCenterEmits) {
     handleFolderListUpdate,
     onClickReturn,
     openPackage,
-    handleGetDevelopersTag,
+    handleGetDevelopersTree,
   };
 }

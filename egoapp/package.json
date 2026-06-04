@@ -26,7 +26,7 @@
     "@epframe/epoint-lowcode-vue": "beta-10.0.1",
     "@epframe/epoint-appcenter-vue": "workspace:*",
     "@epframe/epoint-sform-vue": "beta-10.0.1",
-    "@epframe/eui-core": "10.0.6-beta.21",
+    "@epframe/eui-core": "10.0.6-beta.41",
     "@epoint-fe/eui-components": "~10.0.2",
     "@epoint-fe/eui-hooks": "~10.0.0",
     "@epoint-fe/eui-icons": "~10.0.0",
